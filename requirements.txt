@@ -3,3 +3,4 @@ Flask_Cors
 torch
 safetensors
 transformers==4.*
+gunicorn
