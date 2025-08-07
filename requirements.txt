@@ -1,5 +1,5 @@
 Flask
 Flask_Cors
-torch==2.2.1
-safetensors==0.4.2
-transformers==4.38.2
+torch
+safetensors
+transformers==4.*
